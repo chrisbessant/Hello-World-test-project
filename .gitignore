@@ -3,4 +3,5 @@
 *.war
 *.jar
 *.ear
+.data
 .settings
